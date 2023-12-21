@@ -59,6 +59,7 @@ export const Carousel = () => {
         </button>
         <div className="indicators">
           {items.map((item, index) => {
+            item = item;
             return (
               <button
                 onClick={() => {

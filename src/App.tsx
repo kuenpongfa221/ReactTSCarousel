@@ -1,5 +1,5 @@
 import { Carousel } from "./Carousel";
-import { Test } from "./Test";
+// import { Test } from "./Test";
 
 function App() {
   return (
